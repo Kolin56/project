@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/project/", // ⚠️ замените на имя вашего репозитория
+  base: '/project/', // ⚠️ замените на имя вашего репозитория
 });
